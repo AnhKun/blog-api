@@ -1,4 +1,4 @@
-package com.springboot.blog.responses;
+package com.springboot.blog.payload;
 
 import com.springboot.blog.dtos.PostDto;
 import lombok.AllArgsConstructor;

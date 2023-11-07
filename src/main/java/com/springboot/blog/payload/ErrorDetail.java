@@ -1,4 +1,4 @@
-package com.springboot.blog.responses;
+package com.springboot.blog.payload;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

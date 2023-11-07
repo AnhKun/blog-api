@@ -6,6 +6,8 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+import java.util.Set;
+
 @Getter
 @Setter
 @NoArgsConstructor
@@ -18,6 +20,5 @@ public class Role {
     private long id;
     @Column(nullable = false, unique = true)
     private String name;
-
 
 }
