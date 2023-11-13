@@ -5,7 +5,7 @@ import com.springboot.blog.dtos.PostDto;
 import com.springboot.blog.entities.Post;
 import com.springboot.blog.exceptions.ResourceNotFoundException;
 import com.springboot.blog.repositories.IPostRepository;
-import com.springboot.blog.payload.PostResponse;
+import com.springboot.blog.dtos.PostResponse;
 import com.springboot.blog.services.IPostService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;

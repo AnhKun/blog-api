@@ -1,6 +1,6 @@
 package com.springboot.blog.exceptions;
 
-import com.springboot.blog.payload.ErrorDetail;
+import com.springboot.blog.dtos.ErrorDetail;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.HttpStatusCode;
